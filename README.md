@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm **Michel Beloshitsky**, Web developer from Russia.
+
 <!--
 **itanka9/itanka9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
